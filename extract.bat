@@ -1,0 +1,1 @@
+isql "TEST1.GDB" -u 'SYSDBA' -p 'masterkey' -i 'extract.sql' -Page 2048 -o 'output.txt'

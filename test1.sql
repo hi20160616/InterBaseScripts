@@ -1,0 +1,4 @@
+INSERT INTO TEST1_TABLE1 (ID, FIELD1, UPDATETIME)
+                  VALUES (5, 'testtesttest5', '2022-02-05 11:37:30');
+
+COMMIT WORK;
